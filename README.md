@@ -10,9 +10,9 @@ This is a Roman Numeral Generator. User inputs numbers and the application retur
 
 ### Behavior Driven Development Specifications
 
-* This program does nothing to non-numeric characters
+<!-- * This program does nothing to non-numeric characters
     * Example Input: Apple
-    * Example Output: Apple
+    * Example Output: Apple -->
 * This program does nothing to numbers below 1 or above 3,999
     * Example Input: 4,159
     * Example Output: 4,159
