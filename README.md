@@ -12,10 +12,10 @@ This is a Roman Numeral Generator. User inputs numbers and the application retur
 
 <!-- * This program does nothing to non-numeric characters
     * Example Input: Apple
-    * Example Output: Apple -->
+    * Example Output: Apple
 * This program does nothing to numbers below 1 or above 3,999
     * Example Input: 4,159
-    * Example Output: 4,159
+    * Example Output: 4,159 -->
 * This program converts predefined values to corresponding symbols
     * Example Input: 50
     * Example Output: L
