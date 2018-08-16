@@ -15,10 +15,10 @@ This is a Roman Numeral Generator. User inputs numbers and the application retur
     * Example Output: Apple
 * This program does nothing to numbers below 1 or above 3,999
     * Example Input: 4,159
-    * Example Output: 4,159 -->
+    * Example Output: 4,159
 * This program converts predefined values to corresponding symbols
     * Example Input: 50
-    * Example Output: L
+    * Example Output: L -->
 * This program will then return the symbol that is the highest factor of the input until the remainder is 0.
     * Example Input: 72
     * Example Output: LXXII
